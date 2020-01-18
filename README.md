@@ -41,7 +41,7 @@ We will 4 types of regressions: linear, ridge, LASSO, and elastic net. We will i
 
 ---
 
-## Conclusion/Recommendations
+## Conclusion
 
 We have identified correlation values associated to each of the 78 features we analysed and have narrowed down to 5 that sellers should focus on achieve the highest sale prices: Overall Quality, Living Square Footage, Exterior Quality, Kitchen Quality, and Total Basement Square Footage. Improving or reducing the value of these features will directly affect the sales prices of homes. 
 
