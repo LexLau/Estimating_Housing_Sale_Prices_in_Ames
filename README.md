@@ -5,8 +5,10 @@
 - [Problem Statement](#Problem-Statement)
 - [Project Files](#Project-Files)
 - [Executive Summary](#Executive-Summary)
-- [Data Dictionary](#Data_Dictionary)
-- [Conclusion/Recommendations](#Conclusion/Recommendations)
+- [Conclusion](#Conclusion)
+- [Data Dictionary](#Data-Dictionary)
+- [Source Documentation](#Source-Documentation)
+
 
 
 ## Problem Statement
@@ -55,7 +57,7 @@ After running simulations through Linear, Ridge, LASSO, and Elastic Net Regressi
 ## Data Dictionary
 - [Ames Data Dictionary](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
 ---
-## Source Documentation and Data Dictionary
+## Source Documentation
 
 - [City of Ames Site](http://www.cityofames.org/assessor/)
 
