@@ -2,6 +2,8 @@
 
 ### By Alex Lau
 
+## Table of Contents
+
 - [Problem Statement](#Problem-Statement)
 - [Project Files](#Project-Files)
 - [Executive Summary](#Executive-Summary)
