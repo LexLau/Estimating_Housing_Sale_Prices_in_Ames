@@ -69,6 +69,3 @@ Individual homes within the data set can be referenced directly from the Ames Ci
 
 An alternative method of accessing this database is through the Beacon website and inputting Iowa and Ames in the appropriate fields.
 
-# Estimating_Housing_Sale_Prices_in_Ames
-# Estimating_Housing_Sale_Prices_in_Ames
-# Estimating_Housing_Sale_Prices_in_Ames
